@@ -1,0 +1,19 @@
+{
+  "name": "marvels-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SchroederSimon/marvels-landing-page.git"
+  },
+  "author": "Simon Schroeder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SchroederSimon/marvels-landing-page/issues"
+  },
+  "homepage": "https://github.com/SchroederSimon/marvels-landing-page#readme"
+}
